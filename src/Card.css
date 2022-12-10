@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 65px;
+}
+.box{
+    background-color: bisque;
+    width: 220px;
+    height: 280px;
+    border-radius: 20px;
+    margin:20px 15px;
+
+
+}
+.box h3{
+    width: 70%;
+    margin: 0px auto;
+    text-align: center;
+}
+.box p{
+    margin: 0px auto;
+    text-align: center;
+}
+.image{
+    margin-top: -60px;
+    display: flex;
+    justify-content:center;
+}
+.cardfooter{
+    display: flex;
+    width: 70%;
+    margin: 0px auto;
+    justify-content: space-between;
+    padding-top: 20%;
+}
